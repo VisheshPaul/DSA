@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/VisheshPaul/DSA/tree/master/0933-number-of-recent-calls) |
+## String
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/VisheshPaul/DSA/tree/master/0394-decode-string) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/VisheshPaul/DSA/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/VisheshPaul/DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
