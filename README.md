@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/VisheshPaul/DSA/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/VisheshPaul/DSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/VisheshPaul/DSA/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/VisheshPaul/DSA/tree/master/0649-dota2-senate) |
 ## Stack
 |  |
 | ------- |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/VisheshPaul/DSA/tree/master/0394-decode-string) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/VisheshPaul/DSA/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
