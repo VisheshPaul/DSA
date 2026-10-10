@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/VisheshPaul/DSA/tree/master/0067-add-binary) |
 | [0394-decode-string](https://github.com/VisheshPaul/DSA/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/VisheshPaul/DSA/tree/master/0649-dota2-senate) |
 ## Stack
@@ -93,4 +94,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshPaul/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/VisheshPaul/DSA/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/VisheshPaul/DSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/VisheshPaul/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
