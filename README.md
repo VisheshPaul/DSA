@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/VisheshPaul/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0394-decode-string](https://github.com/VisheshPaul/DSA/tree/master/0394-decode-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VisheshPaul/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VisheshPaul/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/VisheshPaul/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshPaul/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/VisheshPaul/DSA/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/VisheshPaul/DSA/tree/master/0872-leaf-similar-trees) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VisheshPaul/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/VisheshPaul/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshPaul/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/VisheshPaul/DSA/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/VisheshPaul/DSA/tree/master/0872-leaf-similar-trees) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VisheshPaul/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/VisheshPaul/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshPaul/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/VisheshPaul/DSA/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/VisheshPaul/DSA/tree/master/0872-leaf-similar-trees) |
