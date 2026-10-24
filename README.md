@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/VisheshPaul/DSA/tree/master/0067-add-binary) |
 | [0394-decode-string](https://github.com/VisheshPaul/DSA/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/VisheshPaul/DSA/tree/master/0399-evaluate-division) |
 | [0649-dota2-senate](https://github.com/VisheshPaul/DSA/tree/master/0649-dota2-senate) |
 | [0821-shortest-distance-to-a-character](https://github.com/VisheshPaul/DSA/tree/master/0821-shortest-distance-to-a-character) |
 ## Stack
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/VisheshPaul/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VisheshPaul/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VisheshPaul/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/VisheshPaul/DSA/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/VisheshPaul/DSA/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/VisheshPaul/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/VisheshPaul/DSA/tree/master/0841-keys-and-rooms) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VisheshPaul/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/VisheshPaul/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/VisheshPaul/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/VisheshPaul/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/VisheshPaul/DSA/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/VisheshPaul/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -142,15 +145,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/VisheshPaul/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/VisheshPaul/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/VisheshPaul/DSA/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/VisheshPaul/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/VisheshPaul/DSA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/VisheshPaul/DSA/tree/master/0547-number-of-provinces) |
 ## Array
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/VisheshPaul/DSA/tree/master/0399-evaluate-division) |
 | [0821-shortest-distance-to-a-character](https://github.com/VisheshPaul/DSA/tree/master/0821-shortest-distance-to-a-character) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/VisheshPaul/DSA/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/VisheshPaul/DSA/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/VisheshPaul/DSA/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
