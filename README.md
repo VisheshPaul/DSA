@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/VisheshPaul/DSA/tree/master/0649-dota2-senate) |
+| [2542-maximum-subsequence-score](https://github.com/VisheshPaul/DSA/tree/master/2542-maximum-subsequence-score) |
 ## Linked List
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/VisheshPaul/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0994-rotting-oranges](https://github.com/VisheshPaul/DSA/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VisheshPaul/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2542-maximum-subsequence-score](https://github.com/VisheshPaul/DSA/tree/master/2542-maximum-subsequence-score) |
 ## Shortest Path
 |  |
 | ------- |
@@ -190,11 +192,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VisheshPaul/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [2542-maximum-subsequence-score](https://github.com/VisheshPaul/DSA/tree/master/2542-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VisheshPaul/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/VisheshPaul/DSA/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/VisheshPaul/DSA/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
