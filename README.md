@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/VisheshPaul/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VisheshPaul/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VisheshPaul/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/VisheshPaul/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Tree
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VisheshPaul/DSA/tree/master/0067-add-binary) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/VisheshPaul/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/VisheshPaul/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0994-rotting-oranges](https://github.com/VisheshPaul/DSA/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VisheshPaul/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/VisheshPaul/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/VisheshPaul/DSA/tree/master/2542-maximum-subsequence-score) |
 ## Shortest Path
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VisheshPaul/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/VisheshPaul/DSA/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/VisheshPaul/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/VisheshPaul/DSA/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
