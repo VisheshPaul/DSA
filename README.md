@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/VisheshPaul/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VisheshPaul/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VisheshPaul/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/VisheshPaul/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VisheshPaul/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Tree
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/VisheshPaul/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/VisheshPaul/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/VisheshPaul/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/VisheshPaul/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Graph Theory
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/VisheshPaul/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0994-rotting-oranges](https://github.com/VisheshPaul/DSA/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VisheshPaul/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/VisheshPaul/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VisheshPaul/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/VisheshPaul/DSA/tree/master/2542-maximum-subsequence-score) |
 ## Shortest Path
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/VisheshPaul/DSA/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VisheshPaul/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/VisheshPaul/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/VisheshPaul/DSA/tree/master/2542-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
