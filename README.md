@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/VisheshPaul/DSA/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/VisheshPaul/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/VisheshPaul/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/VisheshPaul/DSA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/VisheshPaul/DSA/tree/master/0056-merge-intervals) |
+| [0162-find-peak-element](https://github.com/VisheshPaul/DSA/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VisheshPaul/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0399-evaluate-division](https://github.com/VisheshPaul/DSA/tree/master/0399-evaluate-division) |
 | [0821-shortest-distance-to-a-character](https://github.com/VisheshPaul/DSA/tree/master/0821-shortest-distance-to-a-character) |
