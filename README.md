@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/VisheshPaul/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/VisheshPaul/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/VisheshPaul/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/VisheshPaul/DSA/tree/master/0875-koko-eating-bananas) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VisheshPaul/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Graph Theory
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/VisheshPaul/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0399-evaluate-division](https://github.com/VisheshPaul/DSA/tree/master/0399-evaluate-division) |
 | [0821-shortest-distance-to-a-character](https://github.com/VisheshPaul/DSA/tree/master/0821-shortest-distance-to-a-character) |
+| [0875-koko-eating-bananas](https://github.com/VisheshPaul/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/VisheshPaul/DSA/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VisheshPaul/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VisheshPaul/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
