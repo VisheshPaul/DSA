@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/VisheshPaul/DSA/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/VisheshPaul/DSA/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/VisheshPaul/DSA/tree/master/0264-ugly-number-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/VisheshPaul/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/VisheshPaul/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/VisheshPaul/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VisheshPaul/DSA/tree/master/0067-add-binary) |
+| [0264-ugly-number-ii](https://github.com/VisheshPaul/DSA/tree/master/0264-ugly-number-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/VisheshPaul/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/VisheshPaul/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/VisheshPaul/DSA/tree/master/0264-ugly-number-ii) |
 | [2336-smallest-number-in-infinite-set](https://github.com/VisheshPaul/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VisheshPaul/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/VisheshPaul/DSA/tree/master/2542-maximum-subsequence-score) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VisheshPaul/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0264-ugly-number-ii](https://github.com/VisheshPaul/DSA/tree/master/0264-ugly-number-ii) |
 | [2336-smallest-number-in-infinite-set](https://github.com/VisheshPaul/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
