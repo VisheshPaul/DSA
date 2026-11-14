@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/VisheshPaul/DSA/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VisheshPaul/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2542-maximum-subsequence-score](https://github.com/VisheshPaul/DSA/tree/master/2542-maximum-subsequence-score) |
 ## Linked List
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/VisheshPaul/DSA/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/VisheshPaul/DSA/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/VisheshPaul/DSA/tree/master/0264-ugly-number-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VisheshPaul/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/VisheshPaul/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/VisheshPaul/DSA/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/VisheshPaul/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/VisheshPaul/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/VisheshPaul/DSA/tree/master/0216-combination-sum-iii) |
 | [0399-evaluate-division](https://github.com/VisheshPaul/DSA/tree/master/0399-evaluate-division) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VisheshPaul/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/VisheshPaul/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/VisheshPaul/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0875-koko-eating-bananas](https://github.com/VisheshPaul/DSA/tree/master/0875-koko-eating-bananas) |
