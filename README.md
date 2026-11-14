@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/VisheshPaul/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VisheshPaul/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VisheshPaul/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VisheshPaul/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/VisheshPaul/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VisheshPaul/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VisheshPaul/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VisheshPaul/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/VisheshPaul/DSA/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/VisheshPaul/DSA/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/VisheshPaul/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0198-house-robber](https://github.com/VisheshPaul/DSA/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/VisheshPaul/DSA/tree/master/0264-ugly-number-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VisheshPaul/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VisheshPaul/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0095-unique-binary-search-trees-ii](https://github.com/VisheshPaul/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0162-find-peak-element](https://github.com/VisheshPaul/DSA/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/VisheshPaul/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/VisheshPaul/DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VisheshPaul/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/VisheshPaul/DSA/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/VisheshPaul/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0216-combination-sum-iii](https://github.com/VisheshPaul/DSA/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
