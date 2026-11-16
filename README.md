@@ -164,12 +164,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/VisheshPaul/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/VisheshPaul/DSA/tree/master/0067-add-binary) |
 | [0264-ugly-number-ii](https://github.com/VisheshPaul/DSA/tree/master/0264-ugly-number-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/VisheshPaul/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/VisheshPaul/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/VisheshPaul/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/VisheshPaul/DSA/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/VisheshPaul/DSA/tree/master/0338-counting-bits) |
