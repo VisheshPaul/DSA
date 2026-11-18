@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/VisheshPaul/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/VisheshPaul/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/VisheshPaul/DSA/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/VisheshPaul/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/VisheshPaul/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/VisheshPaul/DSA/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/VisheshPaul/DSA/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/VisheshPaul/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VisheshPaul/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/VisheshPaul/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/VisheshPaul/DSA/tree/master/0394-decode-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VisheshPaul/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
