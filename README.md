@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/VisheshPaul/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/VisheshPaul/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/VisheshPaul/DSA/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/VisheshPaul/DSA/tree/master/0888-fair-candy-swap) |
 | [1268-search-suggestions-system](https://github.com/VisheshPaul/DSA/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VisheshPaul/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/VisheshPaul/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/VisheshPaul/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/VisheshPaul/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0875-koko-eating-bananas](https://github.com/VisheshPaul/DSA/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/VisheshPaul/DSA/tree/master/0888-fair-candy-swap) |
 | [0994-rotting-oranges](https://github.com/VisheshPaul/DSA/tree/master/0994-rotting-oranges) |
 | [1268-search-suggestions-system](https://github.com/VisheshPaul/DSA/tree/master/1268-search-suggestions-system) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VisheshPaul/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/VisheshPaul/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/VisheshPaul/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VisheshPaul/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0888-fair-candy-swap](https://github.com/VisheshPaul/DSA/tree/master/0888-fair-candy-swap) |
 | [1268-search-suggestions-system](https://github.com/VisheshPaul/DSA/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VisheshPaul/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/VisheshPaul/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VisheshPaul/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/VisheshPaul/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/VisheshPaul/DSA/tree/master/0264-ugly-number-ii) |
+| [0888-fair-candy-swap](https://github.com/VisheshPaul/DSA/tree/master/0888-fair-candy-swap) |
 | [2336-smallest-number-in-infinite-set](https://github.com/VisheshPaul/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
