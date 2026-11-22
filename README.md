@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VisheshPaul/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0649-dota2-senate](https://github.com/VisheshPaul/DSA/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VisheshPaul/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/VisheshPaul/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2542-maximum-subsequence-score](https://github.com/VisheshPaul/DSA/tree/master/2542-maximum-subsequence-score) |
 ## Linked List
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/VisheshPaul/DSA/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/VisheshPaul/DSA/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VisheshPaul/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/VisheshPaul/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Graph Theory
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/VisheshPaul/DSA/tree/master/1268-search-suggestions-system) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/VisheshPaul/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VisheshPaul/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/VisheshPaul/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/VisheshPaul/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/VisheshPaul/DSA/tree/master/2542-maximum-subsequence-score) |
 ## Shortest Path
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VisheshPaul/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1268-search-suggestions-system](https://github.com/VisheshPaul/DSA/tree/master/1268-search-suggestions-system) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/VisheshPaul/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/VisheshPaul/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2542-maximum-subsequence-score](https://github.com/VisheshPaul/DSA/tree/master/2542-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
@@ -339,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/VisheshPaul/DSA/tree/master/0739-daily-temperatures) |
+## Prefix Sum
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/VisheshPaul/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
