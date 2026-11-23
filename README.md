@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/VisheshPaul/DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/VisheshPaul/DSA/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/VisheshPaul/DSA/tree/master/0264-ugly-number-ii) |
+| [0367-valid-perfect-square](https://github.com/VisheshPaul/DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/VisheshPaul/DSA/tree/master/0441-arranging-coins) |
 | [1137-n-th-tribonacci-number](https://github.com/VisheshPaul/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/VisheshPaul/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0162-find-peak-element](https://github.com/VisheshPaul/DSA/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/VisheshPaul/DSA/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/VisheshPaul/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/VisheshPaul/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/VisheshPaul/DSA/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/VisheshPaul/DSA/tree/master/0450-delete-node-in-a-bst) |
