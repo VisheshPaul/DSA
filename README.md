@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/VisheshPaul/DSA/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/VisheshPaul/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/VisheshPaul/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/VisheshPaul/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/VisheshPaul/DSA/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/VisheshPaul/DSA/tree/master/0888-fair-candy-swap) |
 | [1268-search-suggestions-system](https://github.com/VisheshPaul/DSA/tree/master/1268-search-suggestions-system) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VisheshPaul/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VisheshPaul/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/VisheshPaul/DSA/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/VisheshPaul/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/VisheshPaul/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0821-shortest-distance-to-a-character](https://github.com/VisheshPaul/DSA/tree/master/0821-shortest-distance-to-a-character) |
 | [0875-koko-eating-bananas](https://github.com/VisheshPaul/DSA/tree/master/0875-koko-eating-bananas) |
