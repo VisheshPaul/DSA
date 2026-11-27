@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/VisheshPaul/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/VisheshPaul/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VisheshPaul/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VisheshPaul/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VisheshPaul/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/VisheshPaul/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/VisheshPaul/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VisheshPaul/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VisheshPaul/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VisheshPaul/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/VisheshPaul/DSA/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/VisheshPaul/DSA/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/VisheshPaul/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/VisheshPaul/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/VisheshPaul/DSA/tree/master/0097-interleaving-string) |
 | [0198-house-robber](https://github.com/VisheshPaul/DSA/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/VisheshPaul/DSA/tree/master/0264-ugly-number-ii) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/VisheshPaul/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/VisheshPaul/DSA/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/VisheshPaul/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/VisheshPaul/DSA/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/VisheshPaul/DSA/tree/master/0264-ugly-number-ii) |
 | [0367-valid-perfect-square](https://github.com/VisheshPaul/DSA/tree/master/0367-valid-perfect-square) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VisheshPaul/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0095-unique-binary-search-trees-ii](https://github.com/VisheshPaul/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/VisheshPaul/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0162-find-peak-element](https://github.com/VisheshPaul/DSA/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/VisheshPaul/DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/VisheshPaul/DSA/tree/master/0367-valid-perfect-square) |
