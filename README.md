@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/VisheshPaul/DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/VisheshPaul/DSA/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/VisheshPaul/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/VisheshPaul/DSA/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/VisheshPaul/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/VisheshPaul/DSA/tree/master/0096-unique-binary-search-trees) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/VisheshPaul/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/VisheshPaul/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/VisheshPaul/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/VisheshPaul/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/VisheshPaul/DSA/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/VisheshPaul/DSA/tree/master/0264-ugly-number-ii) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/VisheshPaul/DSA/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/VisheshPaul/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Interactive
 |  |
